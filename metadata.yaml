@@ -1,10 +1,16 @@
 _repo: The-New-York-Obelisk-Cleopatra-s-Needle_47273
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47273-h/images/cover.jpg
 creator:
   author:
     agent_name: Moldenke, Charles E.
     gutenberg_agent_id: '44228'
     url: http://www.gutenberg.org/2009/agents/44228
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47273#The-New-York-Obelisk-Cleopatra-s-Needle
 gutenberg_issued: '2014-11-03'
 gutenberg_type: Text
 identifiers:
